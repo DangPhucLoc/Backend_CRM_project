@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>User Information</title>
+    <style>
+      body {
+        background-color: antiquewhite;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      th,
+      td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid #ed4b4b;
+      }
+      th {
+        background-color: #90e745;
+      }
+      header {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+        font-size: 25px;
+        font-family: "Helvetica Neue";
+        font-weight: bold;
+      }
+
+      .header-links {
+        margin-top: 10px;
+      }
+      .search {
+        position: relative;
+        animation: slideIn 1s ease;
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .header-links a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="header-links">
+        <a style="margin-right: 50px" href="#contact">User ManageMent</a>
+        <a style="margin-right: 50px" href="#info">Mobile ManageMent</a>
+        <a style="margin-right: 50px" href="#info">Dashboard</a>
+        <a style="margin-right: 50px" href="#info">Log out</a>
+        <a>
+          <input type="text" id="search_input" name="name" /><input
+            type="submit"
+            style="margin: 10px"
+            id="search"
+            value="Search"
+            placeholder="Search..."
+          />
+        </a>
+      </div>
+    </header>
+    <h1 style="text-align: center; color: red">Mobile Information</h1>
+
+    <table>
+      <thead>
+        <tr>
+          <th>mobile ID</th>
+          <th>description</th>
+          <th>price</th>
+          <th>mobile Name</th>
+          <th>link image</th>
+          <th>quantity</th>
+          <th>not Sale</th>
+          <th>add more</th>
+          <th>delete</th>
+          <th>update</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>JohnDoe</td>
+          <td>Software Engineer</td>
+          <td>Software Engineer</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>JaneSmith</td>
+          <td>Graphic Designer</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>MarkJohnson</td>
+          <td>Data Analyst</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

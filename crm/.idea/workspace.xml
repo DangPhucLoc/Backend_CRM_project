@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64e7443f-660c-472f-bb42-b708310e0675" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/crm_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/crm_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/backend_CIM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_code_gson_gson_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__mysql_mysql_connector_java_8_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/0/5/058fc6c1fba251021d103ea817f862d0044f762a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/0/d/0d41f264777db8913b990351f9d2a699a7ad6541" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/1/4/14b6e4b8bcd7d8bdb05bcaaf35c27f9fe243f56c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/2/2/221eb172ca23baa45a972faa4d1664de36cd963f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/5/7/571d38d65fe75b36bdd06fbf03fd6c683814dd45" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/6/5/658d61b1f8721c2e2cef05037cd423eac1cf3b17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/6/7/6767f54a146be7240cc5dc420b9ffbd19cf2302d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/6/e/6e60b36dfb476c4a663d65fc811cae971fa0a0c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/9/9/99adb6e71980ca464fec7ffd6f4012a518203219" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/b/6/b66ffb2b873a818f2548d9217cc75b70857ca286" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/d/3/d3349080e9ddd3da646d8d1703ac990b76502983" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/e/d/eda4b0b99ca7059e005411cefe8d764af4463db6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/f/0/f0535ee320d8abdd50ad7cbca06978311d29ba55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRM_DATABASE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/blank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/grunt/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/grunt/bs-commonjs-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/grunt/bs-glyphicons-data-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/grunt/bs-lessdoc-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/grunt/bs-raw-files-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/grunt/configBridge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/grunt/sauce_browsers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/js/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/badges.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/bootstrap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/breadcrumbs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/button-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/carousel.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/close.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/code.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/component-animations.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/dropdowns.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/glyphicons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/input-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/jumbotron.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/media.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/background-variant.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/border-radius.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/center-block.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/clearfix.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/gradients.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/grid-framework.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/hide-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/image.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/nav-divider.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/nav-vertical-align.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/opacity.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/progress-bar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/reset-filter.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/reset-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/resize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/responsive-visibility.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/size.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/tab-focus.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/table-row.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/text-emphasis.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/text-overflow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/mixins/vendor-prefixes.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/modals.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/navbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/navs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/normalize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/pager.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/popovers.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/print.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/progress-bars.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/responsive-embed.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/responsive-utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/scaffolding.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/tables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/thumbnails.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/tooltip.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/type.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/less/wells.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/blue-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/default-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/gray-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/gray.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/green-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/megna-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/megna.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/purple-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/colors/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/spinners.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/groupwork-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/groupwork-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/groupwork-update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/groupwork.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/dashboard1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/groupwok.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/jquery.slimscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/morris-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/role.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/showGroupwork.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/showUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/toastr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/js/waves.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/colors/blue-dark.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/eliteadmin.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/css/font-awesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/fonts/fontawesome-webfont-old.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/extras.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/spinning.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_extras.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_spinning.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/icons/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/pages.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/responsive.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/sidebar-nav.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/spinners.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/less/widgets.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/counterup/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/gmaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/gmaps.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/gmaps.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/jquery.gmaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.geofences.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.geometry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.layers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.map_types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.markers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.native_extensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.overlays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.static.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.streetview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/gmaps/lib/gmaps.utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/ajax/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/ajax/load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/ajax/parseJSON.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/ajax/parseXML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/ajax/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/ajax/var/nonce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/ajax/var/rquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/ajax/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/attributes/attr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/attributes/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/attributes/prop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/attributes/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/attributes/val.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/core/access.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/core/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/core/parseHTML.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/core/ready.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/core/var/rsingleTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/addGetHookIf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/curCSS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/defaultDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/swap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/var/cssExpand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/var/getStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/var/isHidden.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/var/rmargin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/css/var/rnumnonpx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/data/Data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/data/accepts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/data/var/data_priv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/data/var/data_user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/dimensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/effects/Tween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/effects/animatedSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/event/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/event/alias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/event/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/exports/amd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/exports/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/intro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/manipulation/_evalUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/manipulation/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/outro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/queue/delay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/selector-native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/selector-sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/serialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/sizzle/dist/sizzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/traversing/findFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/traversing/var/rneedsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/class2type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/concat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/hasOwn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/indexOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/pnum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/rnotwhite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/strundefined.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/var/toString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/jquery/src/wrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/bower.travis.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/area-as-line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/area.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/bar-colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/bar-no-axes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/days.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/decimal-custom-hover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/diagonal-xlabels-bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/diagonal-xlabels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/donut-colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/donut-formatter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/donut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/dst.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/goals.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/lib/example.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/lib/example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/months-no-smooth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/negative.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/no-grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/non-continuous.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/non-date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/quarters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/resize.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/stacked_bars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/timestamps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/updating.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/weeks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/examples/years.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/less/morris.core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/lib/morris.area.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/lib/morris.bar.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/lib/morris.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/lib/morris.donut.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/lib/morris.grid.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/lib/morris.hover.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/lib/morris.line.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/morris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/morris.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/area/area_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/bar/bar_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/bar/colours.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/commas_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/donut/donut_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/grid/auto_grid_lines_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/grid/set_data_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/grid/y_label_format_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/hover_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/label_series_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/line/line_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/pad_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/lib/parse_time_spec.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/specs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/support/placeholder.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/viz/examples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/viz/exemplary/area0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/viz/exemplary/bar0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/viz/exemplary/line0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/viz/exemplary/stacked_bar0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/viz/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/viz/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/morrisjs/spec/viz/visual_specs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/raphael/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/raphael/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/raphael/dev/amdDev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/raphael/dev/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/raphael/dev/require.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/raphael/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/raphael/raphael-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/raphael/raphael.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/dist/sidebar-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/dist/sidebar-nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/src/metisMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/sidebar-nav/src/metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/toast-master/css/jquery.toast.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/toast-master/js/jquery.toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/jquery.waypoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/noframework.waypoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/noframework.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/shortcuts/infinite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/shortcuts/infinite.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/shortcuts/inview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/shortcuts/inview.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/shortcuts/sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/shortcuts/sticky.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/waypoints.debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/zepto.waypoints.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/bower_components/waypoints/lib/zepto.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/error-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/large/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/pixeladmin-logo-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/pixeladmin-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/pixeladmin-small-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/pixeladmin-small-text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/pixeladmin-text-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/pixeladmin-text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/users/arijit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/users/genu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/users/govinda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/users/hritik.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/users/pawandeep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/users/ritesh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/users/sonu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/plugins/images/users/varun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/profile-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/role-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/role-table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/role-update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/task-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/task-update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/user-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/user-table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LayoutCrm/user-update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/._CRM_DATABASE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crm.rarr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/Repository/AbstractRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/Repository/JobRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/Repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/Repository/StatusRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/Repository/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/Repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/Repository/jdbcExcute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/api/DataHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/api/JobController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/api/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/api/StatusController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/api/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/api/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/filter/CustomFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/jdbc/MySQLConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/model/JobModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/model/ResponseData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/model/RoleModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/model/StatusModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/model/TaskModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/model/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/services/JobServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/services/RoleServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/services/StatusServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/services/TaskServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/services/UserServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cybersoft/java18/crm/utils/urlUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/Repository/AbstractRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/Repository/JobRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/Repository/RoleRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/Repository/StatusRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/Repository/TaskRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/Repository/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/Repository/jdbcExcute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/api/DataHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/api/JobController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/api/RoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/api/StatusController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/api/TaskController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/api/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/filter/CustomFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/jdbc/MySQLConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/model/JobModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/model/ResponseData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/model/RoleModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/model/StatusModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/model/TaskModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/model/UserModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/services/JobServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/services/RoleServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/services/StatusServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/services/TaskServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/services/UserServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cybersoft/java18/crm/utils/urlUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crmapp.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="58" />
+    <option name="y" value="25" />
+    <option name="width" value="1862" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectId" id="2DL8JXYFBrQWN8QybGM7dJXM0oT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/backend_CIM/crm/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="contextPath" value="/CRM" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.64" />
+          <option name="path" value="F:\backend_cyber\apchetomcat\apache-tomcat-9.0.64" />
+          <option name="version" value="9.0.64.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64e7443f-660c-472f-bb42-b708310e0675" name="Changes" comment="" />
+      <created>1660466938009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660466938009</updated>
+      <workItem from="1664761865013" duration="393000" />
+      <workItem from="1665818957016" duration="774000" />
+      <workItem from="1667876371239" duration="321000" />
+      <workItem from="1672708593244" duration="4000" />
+      <workItem from="1684129720061" duration="302000" />
+      <workItem from="1684566109185" duration="5630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLIntegrityConstraintViolationException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
